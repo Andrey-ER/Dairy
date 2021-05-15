@@ -1,4 +1,4 @@
 # my first Dairy 
-**Chinese Language
-*Added collaborator Oleg
+* Chinese Language
+* Added collaborator Oleg
 
